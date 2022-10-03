@@ -1,1 +1,1 @@
-# -Algerian-Forest-Fires-Dataset
+# EDA-Algerian-Forest-Fires-Dataset
